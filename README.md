@@ -4,7 +4,7 @@
 
 I turn product questions into artifacts you can inspect: a PRD with its tradeoffs written down, an eval that gates a launch, a teardown where every source is graded by how much weight it can bear.
 
-My background is B2B growth and product marketing, a computer engineering degree, and a product management program with an agentic-AI focus. I'm looking for Product Manager, Associate PM and Product Analyst roles, especially on AI products.
+My background is B2B growth and product marketing, a computer engineering degree, and a product management program with an agentic-AI focus.
 
 ## Selected work
 
@@ -14,7 +14,7 @@ My background is B2B growth and product marketing, a computer engineering degree
 | [**Google Ads B2B teardown**](https://github.com/Shwalak/google-ads-b2b-teardown) | An independent product teardown of Google Ads for B2B lead generation: thesis, prioritization, a PRD for one opportunity, an experiment plan and an interview guide. | I started with an idea Google turned out to be shipping already, so I changed the thesis. Sources are graded primary, secondary or anecdotal. My own scoring ranked a different option first; I overrode it and said so. |
 | [**pmkit**](https://github.com/Shwalak/pmkit) | A small, tested toolkit for PMs: an A/B readout, sample-size planning and a PRD checker. No dependencies. | The readout refuses to call a result when the traffic split looks broken. The statistics are validated against scipy and statsmodels, and by simulation. |
 
-All three were built with Claude Code from my specs. The questions, the decisions and the judgments are mine, and each repo says plainly what is real, what is simulated and what I could not verify.
+Each repo says plainly what is real, what is simulated and what I could not verify.
 
 ## How I work
 
